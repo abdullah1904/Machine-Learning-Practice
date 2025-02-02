@@ -1,1 +1,1 @@
-<h1 align="center">Machine-Learning-Practice</h1>
+<h1 align="center">Machine Learning Practice</h1>
